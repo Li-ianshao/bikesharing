@@ -25,3 +25,6 @@ There are two additional visualizations that can help kate to start her business
   
 * A chart for tripduration count and end station id or station location.
   this chart can tell us about stations that are popular for people who want to return their bike, and need remove bikes more frequently.
+
+
+[https://public.tableau.com/app/profile/li.yan.shao/viz/bikesharing_16717306621070/1?publish=yes](LINK GOES HERE)
